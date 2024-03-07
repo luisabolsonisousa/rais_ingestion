@@ -10,7 +10,7 @@ url = "https://bi.mte.gov.br/scripts10/dardoweb.cgi"
 ############ PRENCHER ESSAS VARIAVEIS ##################
 start = 2002
 final = 2005
-folder_name  = "setorXsm"
+folder_name  = "setor_sm"
 
 for i in range(start,final):
     ano_variavel=i
@@ -92,7 +92,7 @@ for i in range(start,final):
         os.makedirs(diretorio_local)
 
     # Caminho completo do arquivo local
-    caminho_local = os.path.join(diretorio_local, f"{folder_name}X{ano_variavel}.csv")
+    caminho_local = os.path.join(diretorio_local, f"{folder_name}_{ano_variavel}.csv")
     print(f"Valor de ano_variavel: {ano_variavel}")
     # ...
 
