@@ -10,7 +10,7 @@ url = "https://bi.mte.gov.br/scripts10/dardoweb.cgi"
 ############ PRENCHER ESSAS VARIAVEIS ##################
 start = 2002
 final = 2005
-folder_name  = "setor_sm"
+folder_name  = "teste"
 
 for i in range(start,final):
     ano_variavel=i
@@ -62,7 +62,7 @@ for i in range(start,final):
 
     ########transformando o data no formato correto para post
     #query_string = "&".join([f"{key}={value}" for key, value in data_.items()])
-    query_string=f"NT=59523100&EA=https%3A%2F%2Fbi.mte.gov.br%2Fbgcaged%2Fcaged_rais_vinculo_id%2F&EC=0%3B7C725A%3BBAB19E%3BD9D6CA%3BF0EEDB&AQ=caged_rais_vinculo_basico_tab.par&AC=1&XC=1&IN=1&UM=1&UU=0&US=basico&DF=https%3A%2F%2Fbi.mte.gov.br%2Fbgcaged%2Fcaged_rais_vinculo_id%2Fcaged_rais_vinculo_basico_tab.php&ND=&CJ=Base+de+Gest%E3o+do+MTE%3A%3ACAGED&LI=Capital&V1=Ano+inicial&V2=Ano+final&CO=IBGE+Subsetor&V3=Ano+inicial&V4=Ano+final&UB=Sexo+Trabalhador&V9=Ano+inicial&V0=Ano+final&QU=---------N%E3o---------&V5=Ano+inicial&V6=Ano+final&SL=Faixa+Remun+M%E9dia+%28SM%29&V7=Ano+inicial&V8=Ano+final&CN=-%3EFrequ%EAncia&CE1=Soma&TT=&IU=&OL=SemOrdem&OC=SemOrdem&OQ=SemOrdem&PL=&YZAno=0&YCAno=%22{ano_variavel}%22%3ANOME%3B{ano_variavel}&YZV%EDnculo+Ativo+31%2F12=0&YCV%EDnculo+Ativo+31%2F12=%221%22%3ANOME%3BSim"
+    query_string=f"NT=86925569&EA=https%3A%2F%2Fbi.mte.gov.br%2Fbgcaged%2Fcaged_rais_vinculo_id%2F&EC=0%3B7C725A%3BBAB19E%3BD9D6CA%3BF0EEDB&AQ=caged_rais_vinculo_basico_tab.par&AC=1&XC=1&IN=1&UM=1&UU=0&US=basico&DF=https%3A%2F%2Fbi.mte.gov.br%2Fbgcaged%2Fcaged_rais_vinculo_id%2Fcaged_rais_vinculo_basico_tab.php&ND=&CJ=Base+de+Gest%E3o+do+MTE%3A%3ACAGED&LI=Capital&V1=Ano+inicial&V2=Ano+final&CO=Faixa+Et%E1ria&V3=Ano+inicial&V4=Ano+final&UB=---------N%E3o---------&V9=Ano+inicial&V0=Ano+final&QU=---------N%E3o---------&V5=Ano+inicial&V6=Ano+final&SL=---------N%E3o---------&V7=Ano+inicial&V8=Ano+final&CN=-%3EFrequ%EAncia&CE1=Soma&TT=&IU=&OL=SemOrdem&OC=SemOrdem&OQ=SemOrdem&PL=&YZAno=0&YCAno=%22{ano_variavel}%22%3ANOME%3B{ano_variavel}&YZV%EDnculo+Ativo+31%2F12=0&YCV%EDnculo+Ativo+31%2F12=%221%22%3ANOME%3BSim"
     
     # Envia a solicitação POST
     response = requests.post(url, data=query_string,verify=False)
