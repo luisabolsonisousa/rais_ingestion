@@ -1,0 +1,96 @@
+para o df_primeiras_faixas as 10 variaveis mais relevantes de acordo com o Chi2 Score sao: 
+                                                                                    Chi2 Score
+CLT U/ PJ Ind                                                                    464265.061157
+Comércio Varejista                                                               442415.256025
+30 A 39                                                                          422937.232242
+Aprendiz                                                                         334759.212990
+ESTABELECIMENTOS HOTELEIROS E OUTROS TIPOS DE ALOJAMENTO TEMPORÁRIO              328295.994636
+Adm Técnica Profissional                                                         303524.741532
+COMÉRCIO VAREJISTA NÃO ESPECIALIZADO                                             286122.932669
+COMÉRCIO A VAREJO DE COMBUSTÍVEIS                                                285112.614301
+18 A 24                                                                          283370.271475
+Analfabeto                                                                       263716.726477
+40 A 49                                                                          263656.602187
+SERVIÇOS PESSOAIS                                                                259423.333125
+COMÉRCIO A VAREJO E POR ATACADO DE PEÇAS E ACESSÓRIOS PARA VEÍCULOS AUTOMOTORES  248312.393225
+Fundamental Completo                                                             239193.139638
+Aloj Comunic                                                                     236939.782630
+COMÉRCIO A VAREJO E POR ATACADO DE VEÍCULOS AUTOMOTORES                          231131.880518
+25 A 29                                                                          225570.545625
+COMÉRCIO VAREJISTA DE OUTROS PRODUTOS                                            223192.054668
+65 OU MAIS                                                                       222161.756220
+Indústria Química                                                                219696.516435
+FABRICAÇÃO DE ARTIGOS DO MOBILIÁRIO                                              215436.620285
+Agricultura                                                                      212982.446485
+CLT U/ PF Ind                                                                    212502.411666
+Madeira e Mobiliário                                                             212262.356381
+Administração Pública                                                            200449.312998
+Borracha, Fumo, Couros                                                           199286.839446
+FABRICAÇÃO DE PRODUTOS DE PLÁSTICO                                               198292.673637
+COMÉRCIO ATACADISTA DE ARTIGOS DE USOS PESSOAL E DOMÉSTICO                       197868.054006
+Prod. Mineral Não Metálico                                                       195499.413385
+Estatutário não Efetivo                                                          193239.296295
+para o df_faixas_meio as 10 variaveis mais relevantes de acordo com o Chi2 Score sao: 
+                                                                                        Chi2 Score
+COMÉRCIO A VAREJO DE COMBUSTÍVEIS                                                    208684.552847
+COMÉRCIO VAREJISTA NÃO ESPECIALIZADO                                                 189751.333377
+RESTAURANTES E OUTROS ESTABELECIMENTOS DE SERVIÇOS DE ALIMENTAÇÃO                    177216.072036
+COMÉRCIO VAREJISTA DE PRODUTOS ALIMENTÍCIOS, BEBIDAS E FUMO                          172570.954437
+MANUTENÇÃO E REPARAÇÃO DE VEÍCULOS AUTOMOTORES                                       155000.320116
+COMÉRCIO VAREJISTA DE TECIDOS, ARTIGOS DE ARMARINHO, VESTUÁRIO E CALÇADOS            135818.988662
+SERVIÇOS PESSOAIS                                                                    132937.315188
+CONDOMÍNIOS PREDIAIS                                                                 128055.648056
+CLT U/ PJ Determinado                                                                119608.178177
+Alimentos e Bebidas                                                                  117010.062639
+COMÉRCIO ATACADISTA DE PRODUTOS ALIMENTÍCIOS, BEBIDAS E FUMO                         113398.636688
+COMÉRCIO ATACADISTA DE PRODUTOS INTERMEDIÁRIOS NÃOAGROPECUÁRIOS, RESÍDUOS E SUCATAS  110195.835214
+LIMPEZA URBANA E ESGOTO E ATIVIDADES RELACIONADAS                                    110192.471443
+OBRAS DE INSTALAÇÕES                                                                 110043.261900
+ATIVIDADES DE IMUNIZAÇÃO, HIGIENIZAÇÃO E DE LIMPEZA EM PRÉDIOS E EM DOMICÍLIOS       104313.286885
+CLT U/ PF Ind                                                                         99667.443852
+ATIVIDADES DE INVESTIGAÇÃO, VIGILÂNCIA E SEGURANÇA                                    95492.699472
+ATIVIDADES IMOBILIÁRIAS POR CONTA DE TERCEIROS                                        94121.832337
+Comércio Varejista                                                                    90638.542662
+SELEÇÃO, AGENCIAMENTO E LOCAÇÃO DE MÃODEOBRA                                          87132.838461
+COMÉRCIO A VAREJO E POR ATACADO DE PEÇAS E ACESSÓRIOS PARA VEÍCULOS AUTOMOTORES       84731.880483
+COMÉRCIO A VAREJO E POR ATACADO DE VEÍCULOS AUTOMOTORES                               84666.422138
+TELECOMUNICAÇÕES                                                                      82806.317317
+Temporário                                                                            79455.874016
+Indústria Têxtil                                                                      76263.254052
+5ª Completo Fundamental                                                               75955.040164
+FABRICAÇÃO DE ESTRUTURAS METÁLICAS E OBRAS DE CALDEIRARIA PESADA                      75520.687418
+Agricultura                                                                           75322.920907
+ALUGUEL DE AUTOMÓVEIS                                                                 73754.192434
+COMÉRCIO ATACADISTA DE ARTIGOS DE USOS PESSOAL E DOMÉSTICO                            70804.178753
+para o df_ultimas_faixas as 10 variaveis mais relevantes de acordo com o Chi2 Score sao: 
+                                                                       Chi2 Score
+Administração Pública                                               224143.670211
+Estatutário não Efetivo                                             215965.305483
+Estatutário                                                         186652.771317
+Comércio Varejista                                                  180271.756366
+25 A 29                                                             168624.255279
+EDUCAÇÃO PROFISSIONAL E OUTRAS ATIVIDADES DE ENSINO                 134140.030138
+6ª a 9ª Fundamental                                                 127930.211658
+ADMINISTRAÇÃO DO ESTADO E DA POLÍTICA ECONÔMICA E SOCIAL            116331.679050
+Ensino                                                              111803.232748
+BANCO CENTRAL                                                       110719.003217
+Fundamental Completo                                                 96251.697196
+EDUCAÇÃO SUPERIOR                                                    90893.724232
+OUTRAS ATIVIDADES DE SERVIÇOS PRESTADOS PRINCIPALMENTE ÀS EMPRESAS   84914.768911
+CAPTAÇÃO, TRATAMENTO E DISTRIBUIÇÃO DE ÁGUA                          70596.164593
+Superior Incompleto                                                  65844.469893
+Médicos Odontológicos Vet                                            65640.857120
+ATIVIDADES DE ATENÇÃO À SAÚDE                                        65502.985694
+CONSTRUÇÃO DE EDIFÍCIOS E OBRAS DE ENGENHARIA  CIVIL                 62889.122462
+SERVIÇOS SOCIAIS                                                     62379.424069
+ENSINO MÉDIO                                                         61842.230506
+Médio Incompleto                                                     60262.088996
+Aloj Comunic                                                         58797.436253
+Comércio Atacadista                                                  58499.788975
+EDUCAÇÃO INFANTIL E ENSINO FUNDAMENTAL                               57937.671451
+Diretor                                                              56530.078807
+Até 5ª Incompleto                                                    53317.257880
+CORREIO E OUTRAS ATIVIDADES DE ENTREGA                               53151.502095
+Construção Civil                                                     53060.985382
+COMÉRCIO A VAREJO E POR ATACADO DE VEÍCULOS AUTOMOTORES              52991.652991
+COMÉRCIO VAREJISTA DE OUTROS PRODUTOS                                49574.615347

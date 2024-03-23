@@ -1,0 +1,96 @@
+para o df_primeiras_faixas as 10 variaveis mais relevantes de acordo com o Chi2 Score sao: 
+                                                                                 Chi2 Score
+Comércio Varejista                                                            270766.298509
+30 A 39                                                                       204591.443410
+CLT U/ PJ Ind                                                                 193925.133865
+Fundamental Completo                                                          178818.988568
+FABRICAÇÃO DE ARTIGOS DO MOBILIÁRIO                                           175706.388660
+Prod. Mineral Não Metálico                                                    173528.339005
+Adm Técnica Profissional                                                      171122.493298
+Aprendiz                                                                      170106.221604
+COMÉRCIO A VAREJO DE COMBUSTÍVEIS                                             164484.491436
+Madeira e Mobiliário                                                          162545.177333
+Analfabeto                                                                    149928.896961
+Até 5ª Incompleto                                                             149076.841271
+TELECOMUNICAÇÕES                                                              147299.902740
+COMÉRCIO VAREJISTA NÃO ESPECIALIZADO                                          143522.781928
+18 A 24                                                                       142142.611006
+ESTABELECIMENTOS HOTELEIROS E OUTROS TIPOS DE ALOJAMENTO TEMPORÁRIO           140710.685431
+OBRAS DE INFRAESTRUTURA PARA ENERGIA ELÉTRICA E PARA TELECOMUNICAÇÕES         132477.334910
+SERVIÇOS PESSOAIS                                                             132410.358735
+40 A 49                                                                       132379.482890
+Estatutário não Efetivo                                                       130263.502538
+Agricultura                                                                   129186.480015
+LIMPEZA URBANA E ESGOTO E ATIVIDADES RELACIONADAS                             126941.344688
+25 A 29                                                                       126062.262562
+FABRICAÇÃO DE BEBIDAS                                                         121420.740410
+ALUGUEL DE MÁQUINAS E EQUIPAMENTOS                                            121112.885539
+Borracha, Fumo, Couros                                                        120773.573709
+COMÉRCIO, MANUTENÇÃO E REPARAÇÃO DE MOTOCICLETAS, PARTES, PEÇAS E ACESSÓRIOS  120631.426160
+65 OU MAIS                                                                    120162.473618
+Indústria Química                                                             119959.356004
+COMÉRCIO A VAREJO E POR ATACADO DE VEÍCULOS AUTOMOTORES                       118151.612035
+para o df_faixas_meio as 10 variaveis mais relevantes de acordo com o Chi2 Score sao: 
+                                                                                        Chi2 Score
+COMÉRCIO A VAREJO DE COMBUSTÍVEIS                                                    129020.633650
+COMÉRCIO ATACADISTA DE PRODUTOS INTERMEDIÁRIOS NÃOAGROPECUÁRIOS, RESÍDUOS E SUCATAS  115807.989940
+MANUTENÇÃO E REPARAÇÃO DE VEÍCULOS AUTOMOTORES                                       113188.426490
+COMÉRCIO ATACADISTA DE PRODUTOS ALIMENTÍCIOS, BEBIDAS E FUMO                         109755.275424
+COMÉRCIO VAREJISTA DE PRODUTOS ALIMENTÍCIOS, BEBIDAS E FUMO                          104629.038807
+COMÉRCIO VAREJISTA NÃO ESPECIALIZADO                                                  97753.299606
+LIMPEZA URBANA E ESGOTO E ATIVIDADES RELACIONADAS                                     97317.977410
+CONDOMÍNIOS PREDIAIS                                                                  80854.081285
+RESTAURANTES E OUTROS ESTABELECIMENTOS DE SERVIÇOS DE ALIMENTAÇÃO                     76103.959509
+ATIVIDADES DE IMUNIZAÇÃO, HIGIENIZAÇÃO E DE LIMPEZA EM PRÉDIOS E EM DOMICÍLIOS        75494.370070
+CLT U/ PJ Determinado                                                                 75373.272116
+Agricultura                                                                           72276.346528
+FABRICAÇÃO DE ESTRUTURAS METÁLICAS E OBRAS DE CALDEIRARIA PESADA                      71723.813953
+SERVIÇOS PESSOAIS                                                                     69568.409903
+OBRAS DE INSTALAÇÕES                                                                  67918.614229
+TELECOMUNICAÇÕES                                                                      65737.787298
+Comércio Varejista                                                                    65691.816002
+COMÉRCIO A VAREJO E POR ATACADO DE VEÍCULOS AUTOMOTORES                               61556.616323
+ATIVIDADES IMOBILIÁRIAS POR CONTA DE TERCEIROS                                        59234.590326
+COMÉRCIO A VAREJO E POR ATACADO DE PEÇAS E ACESSÓRIOS PARA VEÍCULOS AUTOMOTORES       58412.719357
+ATIVIDADES DE INVESTIGAÇÃO, VIGILÂNCIA E SEGURANÇA                                    55287.534065
+Madeira e Mobiliário                                                                  53813.141537
+PREPARAÇÃO DO TERRENO                                                                 52915.179950
+Alimentos e Bebidas                                                                   52386.618825
+MANUTENÇÃO E REPARAÇÃO DE MÁQUINAS DE ESCRITÓRIO E DE INFORMÁTICA                     52362.895844
+OUTRAS ATIVIDADES ASSOCIATIVAS                                                        52007.327159
+ABATE E PREPARAÇÃO DE PRODUTOS DE CARNE E DE PESCADO                                  50844.535649
+REPARAÇÃO DE OBJETOS PESSOAIS E DOMÉSTICOS                                            49484.044825
+MANUTENÇÃO E REPARAÇÃO DE MÁQUINAS E EQUIPAMENTOS INDUSTRIAIS                         48788.733697
+Contrat Lei Estadual                                                                  48697.613794
+para o df_ultimas_faixas as 10 variaveis mais relevantes de acordo com o Chi2 Score sao: 
+                                                                       Chi2 Score
+Administração Pública                                               114571.166789
+25 A 29                                                             102650.403272
+Estatutário não Efetivo                                              95827.888200
+Comércio Varejista                                                   87828.722533
+BANCO CENTRAL                                                        87206.632375
+Estatutário                                                          84458.277378
+6ª a 9ª Fundamental                                                  74985.256353
+ADMINISTRAÇÃO DO ESTADO E DA POLÍTICA ECONÔMICA E SOCIAL             63916.710624
+EDUCAÇÃO PROFISSIONAL E OUTRAS ATIVIDADES DE ENSINO                  61496.153138
+Ensino                                                               60956.601992
+Aloj Comunic                                                         52935.192206
+Diretor                                                              50485.421053
+CAPTAÇÃO, TRATAMENTO E DISTRIBUIÇÃO DE ÁGUA                          49875.455195
+COMÉRCIO VAREJISTA DE OUTROS PRODUTOS                                46091.405922
+Transporte e Comunicações                                            45690.289693
+Fundamental Completo                                                 43896.792660
+Até 5ª Incompleto                                                    42748.965223
+OUTRAS ATIVIDADES DE SERVIÇOS PRESTADOS PRINCIPALMENTE ÀS EMPRESAS   42524.698886
+EDUCAÇÃO SUPERIOR                                                    42332.950948
+CONSULTORIA EM SOFTWARE                                              42036.009263
+50 A 64                                                              39731.198059
+OBRAS DE INSTALAÇÕES                                                 37752.079666
+Médicos Odontológicos Vet                                            37629.143962
+ATIVIDADES DE ATENÇÃO À SAÚDE                                        37557.362625
+Comércio Atacadista                                                  36063.722320
+Material de Transporte                                               36002.669315
+Médio Completo                                                       35261.248865
+COMÉRCIO A VAREJO E POR ATACADO DE VEÍCULOS AUTOMOTORES              34622.448686
+5ª Completo Fundamental                                              32318.915951
+Indústria Metalúrgica                                                32032.110253
